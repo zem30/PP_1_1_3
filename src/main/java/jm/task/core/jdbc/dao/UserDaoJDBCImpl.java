@@ -114,4 +114,5 @@ public class UserDaoJDBCImpl implements UserDao {
             System.out.println("ERROR в cleanUsersTable" + e);
         }
     }
+    //
 }
